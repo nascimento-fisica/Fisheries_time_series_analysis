@@ -1,1 +1,2 @@
-# Fisheries_time_series_analysis
+# Fisheries time series analysis
+This repository provides a Python script to reproduce the analyses performed on the dataset used in the article: "Nonlinear time-series analysis of Brazilian fisheries data: entropy, complexity and persistence." The script computes entropy, complexity, and ordinal persistence metrics, as well as all figures presented in the article (Figures 1–7), ensuring full reproducibility of the analyses.
